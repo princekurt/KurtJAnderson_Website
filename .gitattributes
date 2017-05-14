@@ -1,3 +1,0 @@
-*.html linguist-language=Java
-./docs/* linguist-vendored
-html linguist-vendored=false

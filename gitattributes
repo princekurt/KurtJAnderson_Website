@@ -1,0 +1,3 @@
+*.css linguist-language=HTML
+./docs/* linguist-vendored
+css linguist-vendored=false
