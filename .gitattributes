@@ -1,2 +1,5 @@
  ./font-awesome/scss/* linguist-vendored
 *.scss linguist-vendored=true
+
+ ./font-awesome/css/* linguist-vendored
+*.css linguist-vendored=true
