@@ -1,3 +1,2 @@
-*.css linguist-language=Java
-./docs/* linguist-vendored
-css linguist-vendored=false
+ ./docs/* linguist-vendored
+*.html linguist-vendored=true
