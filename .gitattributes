@@ -5,4 +5,4 @@
 *.css linguist-vendored=true
 
  ./css/* linguist-vendored
-*min.css linguist-vendored=true
+*.css linguist-vendored=true
