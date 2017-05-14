@@ -4,5 +4,5 @@
  ./font-awesome/css/* linguist-vendored
 *.css linguist-vendored=true
 
- ./css/* linguist-vendored
-*.css linguist-vendored=true
+ ./font-awesome/less/* linguist-vendored
+*.less linguist-vendored=true
