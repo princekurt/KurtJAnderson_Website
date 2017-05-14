@@ -5,4 +5,4 @@
 *.css linguist-vendored=true
 
  ./css/* linguist-vendored
-./bootstrap.min.css linguist-vendored=true
+*min.css linguist-vendored=true
