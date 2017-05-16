@@ -114,7 +114,7 @@
 }
 
 
-@media screen and (max-width: 500px){
+@media screen and (max-width: 479px){
 	.skillbar-title{
 		font-size: 10px;
 		width:16%;
@@ -124,14 +124,6 @@
 	} 
 }
 
-@media screen and (max-width: 320px){
-	.skillbar-title{
-		font-size: 8px;
-		width:18%;
-	}
-	.skillbar-title span{
-		padding:0 5px;
-	} 
-}
+
 
 
